@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "input": "^1.0.1",
+    "node-binance-api": "^0.13.1",
+    "node-fetch": "^3.3.2",
+    "telegram": "^2.19.10"
+  },
+  "type": "module",
+  "presets": [
+    "@babel/preset-env"
+  ]
+}
